@@ -63,3 +63,4 @@ It can be modified to customize the game experience.
 
 
 I'm very glad you take some time to look at my game and at my code!
+Learn example!
